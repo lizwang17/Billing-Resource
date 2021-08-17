@@ -1,4 +1,9 @@
-# Sprint cycle
-![](https://i.imgur.com/TetXgmG.png)
-
-BR team 週期起始於每週一，結束於下週五。總共 10 個工作天。
+# Billing and Resource
+Author: Liz Wang
+PjM: Liz Wang
+- [Introduction](/xAO4wp5MSXimhRImCS_Jeg)
+- [Team Member](/b4pjr_rgS4WgwN_nFVZk5g)
+- [Sprint cycle](/3qvdjZvfRnWSpDB7T0yRLw)
+- [About meetings](/3uW6ZyuZRB6AHAxTjckMgQ)
+- [Release note](/C_taWdbLSpmyJts8zC9k1g)
+- [Problem shooting](/MTiEfhlsSOmwVjNE3p0byg)
